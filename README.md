@@ -1,4 +1,5 @@
-## Permitted Opposition 👋
+# Permitted Opposition
+Opens source collection of evidence supporting the Islamic Republic permitted opposition theopry coined by Majid Tavakoli.
 
 <!--
 **AghBozorgoo/aghbozorgoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
